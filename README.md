@@ -1,7 +1,7 @@
 # Program Synthesis for Cyber-Resilience
 ## Nestor Catano (nestor.catano@gmail.com)
 
-This repository shows our work on program synthesis for cyber-resilience. We show how program synthesis techniques can be used to produce **certified code** for architectural tactics. Our work is based on **Event-B formal methods** and the EventB2Java code generator tool. We show how **testing** techiques can be used to animate and check the behaviour of the generated code to check if its behaviour meets our expectations. We have 
+This repository shows our work on program synthesis for cyber-resilience. We show how program synthesis techniques can be used to produce **certified code** for architectural tactics. Our work is based on **Event-B formal methods** and the EventB2Java code generator tool. We show how **testing** techiques can be used to animate and check the behaviour of the generated code to check if its behaviour meets our expectations. The eclipse projects below include excerpts to unit-test the certified code.
 
 Here is a list of files included in this repository.
 
