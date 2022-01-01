@@ -7,11 +7,11 @@ Here is a list of files included in this repository.
 
 **autonomous_vehicle.zip** Event-B model for an *autonomous vehicle*. You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
-**autonomous_vehicle_eclipse.zip** The respective code synthesis of the *autonomous vehicle*. It should be imported from Eclipse.
+**autonomous_vehicle_eclipse.zip** The respective code synthesis of the *autonomous vehicle*. The project should be imported from Eclipse.
 
 **availability_exception.zip** Event-B model for the *exception* architectural tactic (availability). You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
-**availability_exception_eclipse.zip** The respective code synthesis for *exception*. It should be imported from Eclipse. 
+**availability_exception_eclipse.zip** The respective code synthesis for *exception*. The proe should be imported from Eclipse. 
 
 **availability_heartbeat.zip** Event-B model for *heartbeat* architectural tactic (availability). You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
@@ -19,20 +19,20 @@ Here is a list of files included in this repository.
 
 **availability_pingecho.zip** Event-B model for *pingecho* architectural tactic (availability). You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
-**availability_pingecho_eclipse.zip**  The respective code synthesis for *pingecho*. It should be imported from Eclipse. 
+**availability_pingecho_eclipse.zip**  The respective code synthesis for *pingecho*. The project should be imported from Eclipse. 
 
 **availability_timestamp.zip** Event-B model for the *timestamp* architectural tactic (availability). You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
-**availability_timestamp_eclipse.zip** The respective code synthesis for *timestamp*. It should be imported from Eclipse.
+**availability_timestamp_eclipse.zip** The respective code synthesis for *timestamp*. The project should be imported from Eclipse.
 
 **performance_limit_epriority.zip** Event-B model for the *priority* architectural tactic (performance). You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
-**performance_limit_epriority_eclipse.zip** The respective code synthesis for *priority*. It should be imported from Eclipse.
+**performance_limit_epriority_eclipse.zip** The respective code synthesis for *priority*. The project should be imported from Eclipse.
 
 **performance_limit_eresponse.zip** Event-B model for the *response* architectural tactic (performance). You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
-**performance_limit_eresponse_eclipse.zip** The respective code synthesis for *response*. It should be imported from Eclipse.
+**performance_limit_eresponse_eclipse.zip** The respective code synthesis for *response*. The project should be imported from Eclipse.
 
 **performance_limit_access.zip** Event-B model for the *access control* architectural tactic (security). You can import it from Rodin 3.3 via File, Import, Existing Project into Work Space.
 
-**performance_limit_access_eclipse.zip** The respective code synthesis for *access control*. It should be imported from Eclipse.
+**performance_limit_access_eclipse.zip** The respective code synthesis for *access control*. The project should be imported from Eclipse.
